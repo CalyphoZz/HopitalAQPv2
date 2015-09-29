@@ -45,7 +45,7 @@ class __TwigTemplate_aa9a16a36acb55b0c1631529c488561e extends Twig_Template
     public function block_body($context, array $blocks = array())
     {
         // line 8
-        echo "<h1> Hopital </h1>
+        echo "<h1 id=\"titre\"> Hôpital AQP </h1>
 <div id=\"menu\">
 <ul>
 \t<a href=\"";
@@ -95,6 +95,6 @@ class __TwigTemplate_aa9a16a36acb55b0c1631529c488561e extends Twig_Template
 
     public function getDebugInfo()
     {
-        return array (  83 => 20,  77 => 17,  73 => 16,  69 => 15,  65 => 14,  61 => 13,  57 => 12,  53 => 11,  48 => 8,  45 => 7,  39 => 5,  34 => 2,  26 => 22,  24 => 7,  22 => 1,  31 => 1,  28 => 2,);
+        return array (  83 => 20,  77 => 17,  73 => 16,  69 => 15,  65 => 14,  61 => 13,  57 => 12,  53 => 11,  48 => 8,  45 => 7,  39 => 5,  34 => 2,  31 => 1,  26 => 22,  24 => 7,  22 => 1,);
     }
 }

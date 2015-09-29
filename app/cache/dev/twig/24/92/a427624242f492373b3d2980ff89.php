@@ -29,6 +29,8 @@ class __TwigTemplate_2492a427624242f492373b3d2980ff89 extends Twig_Template
     {
         // line 3
         echo "<h1> Plan d'accès </h1>
+<p id=\"planDesc\"> Vous pouvez accéder à l'hopital en voiture par la rue Eugène Millon ou par la rue Blomet, ou en métro par les arrêts 8 & 12, en bus par les arrêts 62,80,39 </p>
+<img id =\"plan\" src=\"http://www.hopital.cognacq-jay.fr/images/plans/plan_1.gif\"/>
 ";
     }
 

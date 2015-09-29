@@ -29,6 +29,14 @@ class __TwigTemplate_0c460d403903b8eb0bbf599f91870d78 extends Twig_Template
     {
         // line 3
         echo "<h1> Services </h1>
+<ul id=\"serv\">
+<li> Grand brulés </li>
+<li> Cancérologie </li>
+<li> Cardiologie </li>
+<li> Réanimation </li>
+<li> Maternité </li>
+</ul>
+<img class=\"img-circle\" id=\"servic\" src=\"http://www.mutuelle-infirmier.fr/images/infirmiere.jpg\"/>
 ";
     }
 

@@ -29,6 +29,16 @@ class __TwigTemplate_ff1afe705b65336592765bec0c4b2353 extends Twig_Template
     {
         // line 3
         echo "<h1> Personnel </h1>
+<p id=\"categorie\"> Médecins : </p>
+<p> Vandamme Abigaelle ; Debaudringhien Quentin ; Martel Gaetan ; Vinci Alexis ; Chaibi Fehd </p>
+<p id=\"categorie\"> Infirmiers : </p>
+<p> Jacek Thibault ; Bernard Maxime ; Bocquet Rémi ; Lagdem Mohammed </p>
+<p id=\"categorie\"> Aide soignant(e)s </p>
+<p> Mathieu Sommet ; Antoine Daniel ; Bruce Benraman </p></br></br>
+<p id=\"petit\"><u> Vous souhaitez postuler ? Par ici </u></p>
+<div id=\"btnPostuler\">
+<input type=\"button\" class=\"btn btn-success\" value=\"Postuler\"/>
+</div>
 ";
     }
 

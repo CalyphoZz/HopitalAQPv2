@@ -28,7 +28,10 @@ class __TwigTemplate_8215706a8c5b8a0683aa00c0cf47549f extends Twig_Template
     public function block_corps($context, array $blocks = array())
     {
         // line 3
-        echo "<h1> Accueil </h1>
+        echo "<h1><u> Accueil </u></h1>
+<p class=\"col-md-6\"> Afin que votre hospitalisation se passe dans les meilleures conditions, notre organisation est centrée sur la recherche permanente de la qualité de la part des praticiens, du personnel et de l’encadrement.
+Le patient est donc au cœur de notre dispositif qui doit concourir à lui offrir à la fois des conditions d’accès aux soins adaptées en termes d’efficacité et de sécurité et des conditions de séjour confortables et agréables. L’établissement met en œuvre des démarches dans les domaines du traitement de la douleur, de la maîtrise de la qualité et de la prévention des risques. </p>
+<img id=\"logo\" src=\"http://www.clker.com/cliparts/1/4/7/0/1207314060955899368hospital%20blue.svg.med.png\"/>
 ";
     }
 

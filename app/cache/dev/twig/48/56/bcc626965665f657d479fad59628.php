@@ -29,6 +29,7 @@ class __TwigTemplate_4856bcc626965665f657d479fad59628 extends Twig_Template
     {
         // line 3
         echo "<h1> Informations </h1>
+<p> Pour faire votre entrée à l'hôpital, veuillez passer à l'accueil. Si vous souhaitez rendre visite à une patient, les horaires sont entre 10h et 16h pour la plupart des services. Les chiens ne sont pas admis dans l'établissement. </p>
 ";
     }
 

@@ -29,6 +29,18 @@ class __TwigTemplate_2ae1e90d0754d09ad49fef91909dfb33 extends Twig_Template
     {
         // line 3
         echo "<h1> Horaires </h1>
+<div class=\"col-md-6\" id=\"tabl\">
+<table class=\"table table-bordered\">
+<tr><th class=\"info\"> Service </th><th class=\"info\"> Horaire ouverture </th><th class=\"info\"> Horaire fermeture </th> </tr>
+<tr><td class=\"danger\"> Caféteria </td><td class=\"danger\"> 11h </td><td class=\"danger\"> 14h </td></tr>
+<tr><td class=\"danger\"> Cardiologie </td><td class=\"danger\"> 6h </td><td class=\"danger\"> 20h </td></tr>
+<tr><td class=\"danger\"> Grand brulés </td><td class=\"danger\"> 6h </td><td class=\"danger\"> 20h </td></tr>
+<tr><td class=\"danger\"> Maternité </td><td class=\"danger\"> 8h </td><td class=\"danger\"> 18h </td></tr>
+<tr><td class=\"danger\"> Secrétariat </td><td class=\"danger\"> 7h </td><td class=\"danger\"> 19h </td></tr>
+<tr><td class=\"danger\"> Réanimation </td><td class=\"danger\"> 7h </td><td class=\"danger\"> 20h </td></tr>
+<tr><td class=\"danger\"> Cancérologie </td><td class=\"danger\"> 8h </td><td class=\"danger\"> 18h </td></tr>
+</table>
+</div>
 ";
     }
 

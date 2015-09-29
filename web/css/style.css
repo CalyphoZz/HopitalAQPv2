@@ -1,0 +1,65 @@
+body{
+background-image:url("http://www.labymais.com/images/fond-ecran-bleu.jpg");
+}
+h1{
+	margin-left:735px;
+}
+#titre{
+	margin-left:700px;
+}
+
+ul{
+	margin-top:30px;
+	margin-left:450px;
+	font-size:22px;
+}
+
+p{
+	margin-left:450px;
+	margin-top:40px;
+	font-size:20px;
+}
+#logo
+{
+	margin-left:660px;
+	margin-top:50px;
+}
+#serv
+{
+	margin-left:700px;
+}
+#servic
+{
+	position:absolute;
+	margin-left:40px;
+	margin-top:-150px;
+}
+#categorie
+{
+	font-color:red;
+	font-size:30px;
+}
+
+#petit
+{
+	font-size:15px;
+}
+#btnPostuler
+{
+	margin-left:700px;
+	margin-top:-35px;
+}
+#tableau
+{
+	margin-left:530px;
+	margin-top:20px;
+}
+#tabl{
+	margin-top:50px;
+	margin-left:400px;
+}
+#plan
+{
+	margin-left:650px;
+	margin-top:100px;
+}
