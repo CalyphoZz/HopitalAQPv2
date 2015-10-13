@@ -20,13 +20,10 @@ p{
 }
 #logo
 {
-	margin:auto;
+	margin-left:40%;
 	margin-top:50px;
 }
-#serv
-{
-	margin-left:700px;
-}
+
 #servic
 {
 	position:absolute;
