@@ -1,0 +1,17 @@
+bundlePPEMission2\BootstrapBundle\Entity\utilisateur:
+    type: entity
+    table: null
+    repositoryClass: bundlePPEMission2\BootstrapBundle\Entity\utilisateurRepository
+    fields:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+        login:
+            type: string
+            length: '20'
+        motDePasse:
+            type: string
+            length: '20'
+    lifecycleCallbacks: {  }

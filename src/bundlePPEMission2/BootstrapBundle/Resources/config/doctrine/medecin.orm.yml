@@ -1,0 +1,17 @@
+bundlePPEMission2\BootstrapBundle\Entity\medecin:
+    type: entity
+    table: null
+    repositoryClass: bundlePPEMission2\BootstrapBundle\Entity\medecinRepository
+    fields:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+        nom:
+            type: string
+            length: '20'
+        noTel:
+            type: string
+            length: '20'
+    lifecycleCallbacks: {  }
