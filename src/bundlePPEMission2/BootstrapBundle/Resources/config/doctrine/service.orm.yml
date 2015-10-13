@@ -1,0 +1,17 @@
+bundlePPEMission2\BootstrapBundle\Entity\service:
+    type: entity
+    table: null
+    repositoryClass: bundlePPEMission2\BootstrapBundle\Entity\serviceRepository
+    fields:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+        libelle:
+            type: string
+            length: '20'
+        noTel:
+            type: string
+            length: '20'
+    lifecycleCallbacks: {  }
